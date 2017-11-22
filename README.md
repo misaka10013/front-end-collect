@@ -1,3 +1,9 @@
+## 本页面用于导航页，方便引导读者找到不同类别领域的资料。
+
+如：不错的[文档编写软件](https://github.com/misaka10013/front-end-collect/edit/master/rm2.md)
+
+
+
 前端收集
 =================
 
