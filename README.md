@@ -13,6 +13,7 @@
 |名称 |网址 | 介绍 | 
 | ----- | ----- | ------ |
 |雷锋网|https://www.leiphone.com/| 面向于未来技术的资讯网站|
+| Atollmoe |http://www.dxdbbb.com/portal.php | 动漫资讯类网站，还有手办测评等。|
 
 
 
@@ -64,17 +65,19 @@
 |-----|-----|-----|
 |金数据|https://jinshuju.net/| 可以很轻松的制定访问调查表单等进行调研和回馈信息的统计，还可以定制在线考试，抽奖等平台。其中很多表单模版很值得学习。|
 |飞猫云|http://www.feemoo.com/ |小众的付费云，但是不受监控管制，分享资源更多。 |
+|喵pass次元领域 |http://www.nyapass.com/ |vpn类论坛，提供低价格的翻墙渠道流量，供访问日本dmm等游戏网站，也有游戏玩家分享和讨论攻略。|
+
+#### 资源型网站
+|名称|地址|介绍|
+|-----|-----|-----|
+|COSER suki |http://cosersuki.me/ | 一个cos写真作分享网站，还行，不用什么积分什么的，纯分享。|
+|STILETTO乐园 |http://stly2.com/ |写真资源网站，也有coser写真之类的，但有会员制。 |
 
 
 #### 书籍
 内容太多，请看这里。
 [小孩子不要看哦](https://github.com/misaka10013/front-end-collect/edit/master/H
 shu.md)
-
-|名称 | 作者 | 出版社|简评 |
-| ----- | -----  |----- |------|
-| [Web标准设计](http://book.douban.com/subject/3327829/) | 刘杰（嗷嗷） | 清华大学出版社 |基础入门|
-| [大巧不工 : Web前端设计修炼之道](http://book.douban.com/subject/4914146/) | 赖定清 / 林坚   | 机械工业出版社|适合入门，了解前端全局|
 
 
 #### 组织或团体
