@@ -115,6 +115,8 @@
 | | https://x.threatbook.cn/ | 用于搜索ip指向的域名，域名指向的ip以及域名注册的人，其还拥有那些内容等等。|
 | 大数据搜索 | http://www.chongbuluo.com/ | 各种搜索工具的集合 |
 | 在线工具 | http://tool.oschina.net/ | 在线小工具页面。  |
+|计算机练题网站| http://www.lintcode.com/ | 不错的计算机刷题练题网站 |
+|国外计算机练题网站| http://www.lintcode.com/ | 比较火的计算机刷题练题网站 |
 
 
 #### 资源型网站
