@@ -137,8 +137,7 @@
 
 #### 书籍
 内容太多，请看这里。
-[小孩子不要看哦](https://github.com/misaka10013/front-end-collect/edit/master/H
-shu.md)
+[小孩子不要看哦](https://github.com/misaka10013/front-end-collect/edit/master/Hshu.md)
 
 
 #### 组织或团体
