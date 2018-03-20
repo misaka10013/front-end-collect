@@ -9,7 +9,7 @@
 
 本项目各文件引导图
 
-![image](https://misaka1013.github.io/posts/img/404.png)
+![image](https://misaka1013.github.io/posts/img/404.jpg)
 
 #### 干货十足的资讯网站
 |名称 |网址 | 介绍 | 
